@@ -1,5 +1,4 @@
-<h1 align="center">Heyy, I'm Leyana! 🌷<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8aeaa0c-e1f5-4fd8-a2cf-d9625a130791" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2b20f08f-4ad9-42e9-a116-2b8027d94062" />
+<h1 align="center">Heyy, I'm Leyana! 🌷
 </h1>
 <h3 align="left">Connect with me:</h3>
 
