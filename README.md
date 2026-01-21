@@ -1,8 +1,8 @@
 <h1 align="center">Heyy, I'm Leyana! 🌻</h1>
 
-<h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leyana-raed)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lianaraed21@gmail.com)
+
+### Connect with me::
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leyana-raed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lianaraed21@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
