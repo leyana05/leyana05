@@ -27,3 +27,6 @@
 </p>
 
 ![Leyana's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyana05&show_icons=true&theme=graywhite )
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leyana05&theme=tokyonight)](https://github.com/leyana05)
